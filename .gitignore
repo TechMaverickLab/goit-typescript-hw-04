@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+tree.txt
+generate_tree.sh
+project_structure.txt
+.env
